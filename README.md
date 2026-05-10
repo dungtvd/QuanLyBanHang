@@ -30,12 +30,12 @@
 
 ### Quản lý sản phẩm
 
-![SanPham](images/sanpham.png)
+![SanPham](images/QuanLySanPham.png)
 
 ### Hóa đơn
 
-![HoaDon](images/hoadon.png)
+![HoaDon](images/HoaDon.png)
 
 ### Chi tiết hóa đơn
 
-![ChiTietHoaDon](images/chitiethoadon.png)
+![ChiTietHoaDon](images/ChiTietHoaDon.jpg)
